@@ -1,3 +1,4 @@
+# NLH local customizations to Pure Prompt (original info below)
 # Pure
 
 > Pretty, minimal and fast ZSH prompt
